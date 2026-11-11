@@ -1,0 +1,6 @@
+/**
+ * DataType
+ */
+public class DataType {
+
+}
